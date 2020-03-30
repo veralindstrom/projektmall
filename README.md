@@ -1,5 +1,7 @@
 # Kursrapportmall
 
+Denna mall passar till kurserna II1300 och II1302 vid KTH.
+
 Denna kursrapportmall är baserad på IEEEs LaTeX-mall för Conference Papers.
 Originalmallen finns här:
 https://www.ieee.org/conferences/publishing/templates.html
